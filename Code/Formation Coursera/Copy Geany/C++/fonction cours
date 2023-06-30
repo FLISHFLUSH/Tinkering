@@ -1,0 +1,3 @@
+La fonction en C++ est un simple appel d'un bout de code
+Il faut y déclarer, affecter etc des variables qui disparaissent dans l'oubli une fois les accolades dépassées.
+Les paramètres d'une fonction sont redéclarés et et reaffecter à chaque utilisation.

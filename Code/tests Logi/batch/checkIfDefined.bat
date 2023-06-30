@@ -1,0 +1,1 @@
+:: IF DEFINED MyVar (ECHO MyVar IS defined) ELSE (ECHO MyVar is NOT defined)
